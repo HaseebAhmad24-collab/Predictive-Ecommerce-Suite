@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-multipart
+python-dotenv
+langchain
+wcwidth
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+
